@@ -44,7 +44,7 @@ Index
 **본 서비스는 ‘AI 기술을 사용하여 무인점포 내 객체와 행위에 대한 자연어 캡션을 클라이언트에게 브리핑 해주는 서비스’로써, 무인점포 내 CCTV로 촬영된 영상의 다양한 객체에 대해 Vision AI의 inference 결과를 LLM을 사용해 생성된 자연어 캡션을 클라이언트에게 전송하는 서비스입니다.**
 
 * Service BIZ Strategy:
- ![BMmodel](https://github.com/prometheus-BIS/README/assets/133326837/9e2ffa6c-7d42-4b24-8edb-5b235b278f87)
+<img width="746" alt="스크린샷 2024-06-16 오후 8 31 59" src="https://github.com/2eey10/2024-ai-hackathon-backend/assets/133326837/a6514779-805f-4489-9e95-d226f01f7690">
   * GTM (Go-To-Market) Plan
     * a. **서비스 지역 설정  및 계약성사**:
       
@@ -344,11 +344,10 @@ API Specification
  방구석 브리핑_Service FlowChart
   ===========================
   
-![브리핑생성flowchart](https://github.com/prometheus-BIS/README/assets/133326837/68c12d16-9993-4ac1-bea9-2fb26f52fa0e)
+![Untitled (2)](https://github.com/2eey10/2024-ai-hackathon-backend/assets/133326837/615010d1-8014-44dd-bbac-561ad3526361)
 
-![과거기록조회flowchart](https://github.com/prometheus-BIS/README/assets/133326837/027c5f7a-671a-4ba4-b3af-e4db5916802f)
-
-![gpt4커스텀flowchart](https://github.com/prometheus-BIS/README/assets/133326837/3974aaca-dfc8-431b-8df0-9673ccd2e4af)
+![Untitled (3)](https://github.com/2eey10/2024-ai-hackathon-backend/assets/133326837/1585f91f-e827-41e8-b2a5-059577d43123)
+![Untitled (4)](https://github.com/2eey10/2024-ai-hackathon-backend/assets/133326837/e4990034-9194-4609-a499-49f8c0346d94)
 
 ## Web/App Development Stack
 
